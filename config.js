@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "254740007567; Marisel"
+const ownervb = process.env.OWNERS || "254757072994; LiLSnarky"
 
 
 const ownerlist = ownervb.split(';');
@@ -72,7 +72,7 @@ global.APIKeys = {
 global.botname = process.env.BOTNAME
 global.premium = 'false'
 global.packname = 'Mercedes'
-global.author = 'Marisel'
+global.author = 'LiLSnarky'
 global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
 global.dygp = 'https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x'
